@@ -5,7 +5,7 @@ public class HotelReservationSystem {
 
     static final String URL = "jdbc:mysql://localhost:3306/hotel_db";
     static final String USER = "root";
-    static final String PASSWORD = "@Hitesh123";
+    static final String PASSWORD = "@Tomy67@@";
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
